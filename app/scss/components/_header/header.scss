@@ -1,0 +1,26 @@
+
+
+.header_1 {
+  background-color: #F4F4F4;
+
+  .header_wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+
+    .right_part {
+      #language{
+        border: none;
+        background-color: #F4F4F4;
+
+      }
+    }
+    .left_part{
+      img{
+        padding-right: 7px;
+        vertical-align: baseline;
+
+      }
+    }
+  }
+}
